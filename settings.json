@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "thrones.mcsh.io",
-    "port": 2022,
-    "version": "",
+    "ip": "ThulDaiSmpSeason1.aternos.me",
+    "port": 19778,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
